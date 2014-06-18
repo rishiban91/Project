@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<div id="header" style="background-color:aqua; width=1200px;height=1000px">
+<div id="header" style="background-color:aqua; width=1200px;height=1000px;">
 <div id="heading" style="font-size:55px; width=1000px;height=100px;">
 <h1 style="margin-bottom:0;text-align:center;color:brown;"> Farm Finder </h1></div>
 <p style="text-align: right";color: blue><font size="8"><a href="">Logout</a></font></p>
