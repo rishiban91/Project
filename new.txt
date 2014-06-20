@@ -16,8 +16,8 @@
     
   </head>
   <body>
-
-  <h1 style="text-align:center;"><img src="http://springrunmarket.com/wp-content/uploads/2014/02/Four-leaf_clover-260x130.jpg">Farm Finder</h1>
+  <h1 style="text-align:center;">
+<div id="plants" style="width:10px; height:10px;"> <img src="http://springrunmarket.com/wp-content/uploads/2014/02/Four-leaf_clover-260x130.jpg"></div>Farm Finder</h1>
 <p style="text-align:center;"><a href="" class="btn">About us</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href ="" class="btn"> Contact us</a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="" class="btn"> Sign in </a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="" class="btn">Sign up </a></p>
 <p style= "text-align: center;"> <img src="https://stinsonsclass.wikispaces.com/file/view/farmland.jpg/174255525/farmland.jpg"></p>
 
