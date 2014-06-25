@@ -16,7 +16,7 @@
     
   </head>
   <body>
-<div id="sigin" style="text-align:center;">
+<div id="sigin" style="text-align:center; background-color:#C2DFFF;">
 <h1> Farm Finder </h2><br><br>
 <form>
 
@@ -29,7 +29,7 @@ Password &nbsp;<input type="password" class="input-block-level placeholder="pass
 <input type="submit" class="btn btn-primary" value="cancel">
 <input type="submit" class="btn btn-primary" value="Forgot password?"><br><br>
 </form>
-</div>
+
 <p style= "text-align: center;"> <img src="https://stinsonsclass.wikispaces.com/file/view/farmland.jpg/174255525/farmland.jpg"></p>
 
 
@@ -37,5 +37,5 @@ Password &nbsp;<input type="password" class="input-block-level placeholder="pass
     
     <script src="js/bootstrap.min.js"></script>
 <p style="text-align:center">copyrights &copy; 2014</p> 
-  </body>
+</div>  </body>
 </html>

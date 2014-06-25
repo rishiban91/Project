@@ -16,7 +16,7 @@
     
   </head>
   <body>
-
+<div id="meat color" style="background-color:#FBF6D9;">
   <h1 style="text-align:center;">Farm Finder</h1><br><br><br>
 <div style="text-align:center;font-size:23px;">
 <p>
@@ -37,11 +37,11 @@ Pick your Meat<br>
 </form>
 
 </div>
-<p style="text-align:center;"><img src="http://www.rgbstock.com/cache1nEQke/users/l/lu/lusi/300/mhALXAW.jpg"><img src="http://estia.abclution.com/wp-content/uploads/sites/10/2012/09/drumsticks.jpg"><img src="http://i01.i.aliimg.com/photo/v0/134068791/Halal_Turkey_meat_whole_filet_leg_quarter.jpg_250x250.jpg">
+<p style="text-align:center;"><img src="http://www.agricorner.com/wp-content/uploads/2014/01/chicken-meat.jpg">
 </p>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     
     <script src="js/bootstrap.min.js"></script>
 <p style="text-align:center">copyrights &copy; 2014</p> 
- </body>
+</div> </body>
 </html>

@@ -16,29 +16,37 @@
     
   </head>
   <body>
-<div id="meat color" style="background-color:#FBF6D9;">
+<div id="signup" style="background-color:#E5E4E2;">
   <h1 style="text-align:center;">Farm Finder</h1><br><br><br>
 <div style="text-align:center;font-size:23px;">
 <p>
-Pick your Meat<br>
+Please enter the following fields<br>
 </p>
 
 <form action="POST"> <action="">
 <div id="font" style="font-size:17px;">
-<input type="checkbox" name="beef" value="Steak">&nbsp;Steak/lbs $15<br> 
-<input type="checkbox" name="pork" value="bacon">&nbsp;Bacon/lbs $13<br> 
-<input type="checkbox" name="chicken" value="turkey">&nbsp;Turkey/lbs $12<br>
-<input type="checkbox" name="chicken" value="drumstick">&nbsp;Drumstick/lbs $10<br>
- 
+First name* &nbsp;&nbsp;<input type="text" name="name"><br> 
+Middle Name &nbsp;<input type="text" name="name"><br>
+Last Name* &nbsp;<input type="text" name="name"><br>
+Apt no.* &nbsp;<input type="text" name="apt"><br>
+Street Name* &nbsp;<input type="text" name="street"><br>
+City/Town* &nbsp;<input type="text" name="city"><br>
+State* &nbsp;<input type="text" name="state"><br>
+Zip* &nbsp;<input type="text" name="state"><br> 
+Phone no.*&nbsp;<input type="text" name="phone"><br> 
+e-mail* &nbsp;<input type="text" name="e-mail"><br> 
+username* &nbsp;<input type="text" name="user"><br> 
+password* &nbsp;<input type="password" name="password"><br> 
+confirm password* *&nbsp;<input type="password" name="password"><br> <br>
+<p> * are required fields </p>
 
 <input type="submit"  value="OK">
-<input type="submit" value="cancel">
+<input type="submit" value="cancel"><br>
 </div>
 </form>
 
 </div>
-<p style="text-align:center;"><img src="http://www.agricorner.com/wp-content/uploads/2014/01/chicken-meat.jpg">
-</p>
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     
     <script src="js/bootstrap.min.js"></script>

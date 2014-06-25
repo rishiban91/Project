@@ -16,28 +16,28 @@
     
   </head>
   <body>
-<div id="meat color" style="background-color:#FBF6D9;">
+<div id="meat color" style="background-color:#E5E4E2;">
   <h1 style="text-align:center;">Farm Finder</h1><br><br><br>
 <div style="text-align:center;font-size:23px;">
 <p>
-Pick your Meat<br>
+Payment Info<br>
 </p>
 
 <form action="POST"> <action="">
 <div id="font" style="font-size:17px;">
-<input type="checkbox" name="beef" value="Steak">&nbsp;Steak/lbs $15<br> 
-<input type="checkbox" name="pork" value="bacon">&nbsp;Bacon/lbs $13<br> 
-<input type="checkbox" name="chicken" value="turkey">&nbsp;Turkey/lbs $12<br>
-<input type="checkbox" name="chicken" value="drumstick">&nbsp;Drumstick/lbs $10<br>
+Name &nbsp;&nbsp;<input type="text" name="name"><br> 
+Card Number &nbsp;<input type="text" name="card"><br>
+CVV number &nbsp;<input type="text" name="cvv"><br>
+Card Expiration &nbsp;<input type="text" name="card ex"><br><br>
  
 
 <input type="submit"  value="OK">
-<input type="submit" value="cancel">
+<input type="submit" value="cancel"><br>
 </div>
 </form>
 
 </div>
-<p style="text-align:center;"><img src="http://www.agricorner.com/wp-content/uploads/2014/01/chicken-meat.jpg">
+<p style="text-align:center;"><img src="https://stinsonsclass.wikispaces.com/file/view/farmland.jpg/174255525/farmland.jpg">
 </p>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     
