@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<div id="homepage" style="width:1000px;height=1000px">
+
+<div id="header" style="background-color:brown;font-size:55px">
+<h1 style="margin-bottom:0;text-align:center;"> Farm Field </h1></div>
+
+<div id="content" style="background-color:viloet;height:500px;width:1000px;font-size:43px;">
+<img src="http://www.lhup.edu/~dsimanek/3d/clouds-farm.png" width="90" height="90"><a href="">About us</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href =""> Contact us</a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="signin.html"> Sign in </a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="">Sign up </a></div>
+
+<div id="footer" style="background-color:purple;clear:both;text-align:center;">
+Copyrights &copy; group 3</div>
+
+</div>
+ 
+</body>
+</html>

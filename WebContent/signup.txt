@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Farm finder</title>
+
+    
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    
+    
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    
+  </head>
+  <body>
+<div id="signup" style="background-color:#E5E4E2;">
+  <h1 style="text-align:center;">Farm Finder</h1><br><br><br>
+<div style="text-align:center;font-size:23px;">
+<p>
+Please enter the following fields<br>
+</p>
+
+<form action="POST"> <action="">
+<div id="font" style="font-size:17px;">
+First name* &nbsp;&nbsp;<input type="text" name="name"><br> 
+Middle Name &nbsp;<input type="text" name="name"><br>
+Last Name* &nbsp;<input type="text" name="name"><br>
+Apt no.* &nbsp;<input type="text" name="apt"><br>
+Street Name* &nbsp;<input type="text" name="street"><br>
+City/Town* &nbsp;<input type="text" name="city"><br>
+State* &nbsp;<input type="text" name="state"><br>
+Zip* &nbsp;<input type="text" name="state"><br> 
+Phone no.*&nbsp;<input type="text" name="phone"><br> 
+e-mail* &nbsp;<input type="text" name="e-mail"><br> 
+username* &nbsp;<input type="text" name="user"><br> 
+password* &nbsp;<input type="password" name="password"><br> 
+confirm password* *&nbsp;<input type="password" name="password"><br> <br>
+<p> * are required fields </p>
+
+<input type="submit"  value="OK">
+<input type="submit" value="cancel"><br>
+</div>
+</form>
+
+</div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    
+    <script src="js/bootstrap.min.js"></script>
+<p style="text-align:center">copyrights &copy; 2014</p> 
+</div> </body>
+</html>
