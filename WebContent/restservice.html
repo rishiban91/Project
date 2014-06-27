@@ -1,18 +1,24 @@
-API Doumentation
-
-ALL my rest services are under PaymentService.java class
- 
+<!DOCTYPE html>
+<html>
+<body>
+API Documentation
 @POST
-I have created a rest service for a new payment. It doesn't have any parameter but it is button called "Buy your products", this button will submit an order to the respective farm to buy their products.
+This service doesn't has any parameter. It has a submit button called "Buy your products". This will post payment.
 
-@GET:
-
-1) I created a rest service to get all the payments detail. It doesn't have any parameter. It will simply get all the payments details.
-
-@GET 
+@GET
+This service will get all the payments but this doesnt have any paramteres.
+@GET
 "/findID/{id}"
-2) I also created a rest service to find a payment of a specific detail.
+
+This service has a parameter. This will get the payment of the particular id.
 
 @Delete
 "/deletePayment/{id}"
-My rest service could delete a payment with a specific id. 
+
+This service has a parameter. This will get the payment of the particular id.
+
+
+
+ 
+</body>
+</html>
